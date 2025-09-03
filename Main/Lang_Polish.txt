@@ -1,0 +1,950 @@
+cp1250	# encoding
+
+# do przet≥umaczenia: 432, 433, 437-441, 448, 452-471
+
+
+# globals
+1: Tak
+2: Nie
+3: OK
+4: W≥.
+5: Wy≥.
+6: Brak
+7: Koniec gry
+
+# menu items
+
+8: WrÛÊ
+9: Zastosuj
+
+# main menu
+10: Podpisz pakt
+11: Wczytaj/Zapisz
+12: Gra wieloosob.
+13: Opcje
+14: Sekrety
+15: PowrÛt
+16: Wyjdü
+17: Jesteú pewien?
+
+# difficulty level
+18: Wybierz poziom trudnoúci
+19: Sen Na Jawie
+20: BezsennoúÊ
+21: Koszmar
+22: Trauma
+
+# options menu
+23: Sterowanie
+24: HUD
+25: DüwiÍk
+26: Grafika
+27: Zaawansowana grafika
+
+# controls config
+
+28: Bronie
+29: Akcje
+30: Podstawowe
+31: Alternatywne
+
+# keys
+32: Do przodu
+33: Do ty≥u
+34: Krok w lewo
+35: Krok w prawo
+36: Skok
+37: Strza≥
+38: Alternatywny strza≥
+39: NastÍpna broÒ
+40: Poprzednia broÒ
+41: BroÒ 1
+42: BroÒ 2
+43: BroÒ 3
+44: BroÒ 4
+45: BroÒ 5
+46: BulletTime
+47: Pauza
+48: Zrzut ekranu
+49: Menu
+50: Tabela punktÛw
+51: MÛw do wszystkich
+52: MÛw do druøyny
+53: Rakiet. skok
+54: Rakiet. skok do przodu
+55: Zmiana trybu ognia
+56: Prze≥πcznik trybu ognia
+57: Najlepsza broÒ wybuch.
+58: Najlepsza broÒ zwyk≥a
+59: Najlepsze w≥asne kombo
+60: Strza≥ naj. br. wybuch.
+61: Strza≥ naj. br. zwyk≥π
+62: Strza≥ naj. w≥. kombo
+
+# mouse options
+63: Odwr. mysz
+64: Wyg≥adzanie
+65: Czu≥oúÊ myszy
+66: Czu≥oúÊ rollera
+
+# weapons config
+67: DrugorzÍdna
+68: Zmiana
+69: Podnoszenie
+70: BroÒ wybuchowa
+71: BroÒ zwyk≥a
+72: Automatyczna zmian broni
+73: W≥asne kombo
+74: GÛra
+75: DÛ≥
+
+# HUD config
+76: Przezrocz.
+77: Rozmiar HUD
+78: Ma≥y
+79: Normalny
+80: Duøy
+81: Celownik
+82: Przezrocz.
+83: Czerwony
+84: Zielony
+85: Niebieski
+
+# sound config
+86: G≥oúnoúÊ
+87: G≥oún. muzyki
+88: G≥oún. düwiÍku
+89: OdwrÛcone stere
+90: Ustawienia g≥oúnikÛw
+91: èrÛd≥o düwiÍku 3D
+92: Dwa g≥oúniki
+93: S≥uchawki
+94: DüwiÍk przestrzenny
+95: Cztery g≥oúniki
+96: PiÍÊ-jeden
+97: Siedem-jeden
+
+# video config
+98: RozdzielczoúÊ
+99: JakoúÊ tekstur
+100: Pe≥en ekran
+101: Gamma
+102: JasnoúÊ
+103: Kontrast
+104: Bardzo niska
+105: Niska
+106: årednia
+107: Wysoka
+108: Architektura
+109: Postacie
+110: Niebo
+
+# advanced video config
+111: Cienie postaci
+112: Efekty pogodowe
+113: Niebo
+114: BroÒ widoczna
+115: Odbicia na broni
+116: Bump-mapping
+117: Filtrowanie tekstur
+118: Multisamplowanie
+119: Dekale zostajπ
+120: Dynamiczne úwiat≥a
+121: Projekcje úwietlne
+122: Aureole
+123: Dekale
+124: SzczegÛ≥owoúÊ tekstur
+125: Bilinearne
+126: Trilinearne
+127: Anisotropiczne
+
+# multiplayer menu
+
+128: Has≥o
+129: Do≥πcz do gry
+130: Zacznij grÍ
+131: Ustawienia gracza
+
+# join game menu
+132: Internet
+133: LAN
+134: Ulubione
+135: Dodaj do ulubionych
+136: UsuÒ z ulubionych
+137: Odúwieø
+138: Zatrzymaj
+139: Do≥πcz
+140: Nazwa serwera
+141: Serwery
+142: Gracze
+143: Mapa
+144: Gry
+145: Ping
+146: Wpisz IP
+147: Nie moøna znaleüÊ serwera
+148: Kliknij by wybraÊ
+149: AktualizujÍ listÍ serwerÛw
+150: Aktualizacja zakoÒczona
+151: [BRAK]
+152: [BRAK MAPY]
+153: Nieznany
+
+# start game menu
+154: Has≥o serwera
+155: Port serwera
+156: Tryb
+157: Free For All
+158: Team Deathmatch
+159: Voosh
+160: The Light Bearer
+161: People Can Fly
+#157: Wolny
+#158: Druøynowy deathmatch
+#159: Voosh
+#160: Nosiciel úwiat≥a
+#161: People Can Fly
+162: Maks. liczba graczy
+163: Maks. liczba widzÛw
+164: Limit fragow
+165: Limit czasowy
+166: Serwer publiczny
+167: Ranienie w≥asnej druøyny
+168: BroÒ zostaje
+169: Wzmocnienia
+170: Upuszczanie wzmocnieÒ
+171: Bunnyhopping dozwolony
+172: åwiecπce postacie dozwolone
+173: Skok na rakiecie do przodu dozwolony
+174: Poúwiaty postaci
+175: Poúwiaty wrogÛw
+176: OgÛlne
+177: Zaawans.
+178: Start
+179: Dodaj
+180: Dodaj wszystko
+181: UsuÒ
+182: UsuÒ wszystko
+
+# player settings menu
+183: ImiÍ
+184: Druøyna
+185: SzybkoúÊ po≥πczenia
+186: Klucz CD
+187: Kasuj
+188: Enter
+
+# menu items' descriptions
+
+189: PowrÛt do poprzedniego ekranu
+190: Zastosuj ustawienia i wrÛÊ do poprzedniego ekranu
+
+# main menu
+191: Zacznij nowπ grÍ dla pojedynczego gracza
+192: Wczytaj zapisanπ grÍ lub zapisz bieøπcπ grÍ
+193: Graj w internecie albo za≥Ûø w≥asny serwer do gry sieciowej
+194: Konfiguruj sterowanie, düwiÍk, grafikÍ i inne ustawienia gry
+195: Sprawdü ile sekretÛw gry zosta≥o juø odkrytych
+196: WrÛÊ do gry
+197: Natychmiast wyjdü z gry
+
+# difficulty modes
+198: Ekstremalnie ≥atwy tryb dla poczπtkujπcych
+199: Zalecany jako standardowy poziom trudnoúci
+200: Trudny tryb dla zaawansowanych graczy
+201: Prawdziwa historia Painkillera
+
+# options menu
+202: Konfiguracja sterowania
+203: Konfiguracja HUD-a
+204: Konfiguracja düwiÍku i muzyki
+205: Konfiguracja opcji graficznych
+206: Dodatkowe ustawienia dla zaawansowanych uøytkonwikÛw
+
+# controls config
+
+207: Przejdü do ekranu konfiguracji broni
+208: Kliknij na klawiszu lewym przyskiem myszy i wciúnij nowy klawisz/przycisk
+
+# mouse options
+209: Ruchy myszy rodem z symulacji lotu
+210: Eliminuje raptowne ruchy myszy
+211: Ustawia czu≥oúÊ myszy
+212: Ustawia czu≥oúÊ kÛ≥ka myszy
+
+# HUD config
+213: Ustawia kszta≥t HUD-a
+214: Ustawia rozmiar HUD-a
+215: WybÛr celownika
+216: WybÛr kszta≥tu celownika
+217: WybÛr koloru celownika
+
+# weapons config
+218: Automatyczna zmiana broni
+
+# sound config
+219: Ustala g≥oúnoúÊ
+220: Ustala g≥oúnoúÊ muzyki
+221: Ustala g≥oúnoúÊ efektÛw düwiÍkowych
+222: Odwraca kana≥y stereo
+223: WybÛr ustawieÒ g≥oúnikÛw
+224: Wybiera ürÛd≥o düwiÍku 3D
+
+# video config
+225: Do wyøszych rozdzielczoúci niezbÍdne sπ szybki pecet i karta 3D
+226: Ustaw na niskπ jeúli masz problemy z szybkoúciπ dzia≥ania
+227: Odznacz jeúli chcesz uruchomiÊ grÍ w oknie
+228: Ustawienia gamma
+229: Ustawienia jasnoúci
+230: Ustawienia kontrastu
+231: Zmiany jakoúci tekstur broni
+232: Zmiany jakoúci tekstur architektury
+233: Zmiany jakoúci tekstur wrogÛw
+234: Zmienia jakoúÊ tekstur nieba
+
+# advanced video config
+235: Wy≥πcz jeúli masz problemy z szybkoúciπ dzia≥ania
+236: Ustaw na bilinearnπ jeúli masz problemy z szybkoúciπ dzia≥ania
+237: Ustawienia poziomu multisamplowania
+238: Ustawienie czasu, po ktÛrym znikajπ úlady walki
+
+# multiplayer menu
+
+239: Wpisz has≥o serwera
+240: Szukaj gier wieloosobowych w LAN-ie/internecie i do≥πcz do nich
+241: Za≥Ûø w≥asny serwer do gry wieloosobowej na LAN-ie/w internecie
+242: Konfiguracja ustawieÒ gry wieloosobowej
+
+# join game menu
+243: Szukaj gier wieloosobowych w internecie i do≥πcz siÍ do nich
+244: Szukaj gier sieciowych w sieci lokalnej i do≥πcz siÍ do nich
+245: Lista twoich ulubionych serwerÛw
+246: Dodaje wybrany serwer do ulubionych
+247: Usuwa wybrany serwer z ulubionych
+248: Odúwieøa listÍ serwerÛw
+249: Zatrzymuje odúwieøanie listy serwerÛw
+250: Do≥πcz siÍ do serwera i graj
+251: Wpisz IP serwera
+
+# start game menu
+252: Tu moøesz nazwaÊ swÛj serwer
+253: Moøesz ustawiÊ has≥o ograniczajπce dostÍp do serwera
+254: Zmienia portu serwera
+255: Wybierz tryb gry
+256: Ustaw maksymalnπ liczbÍ graczy
+257: Ustaw maksymalnπ liczbÍ widzÛw
+258: Liczba fragÛw niezbÍdna do ukoÒczenia mapy, 0 = bez limitu
+259: Czas, po up≥yniÍciu ktÛrego zmienia siÍ mapa, 0 = bez limitu
+260: Reklamuj swÛj serwer w internecie
+261: W≥πcza i wy≥πcza obraøenia od przyjaznego ognia
+262: Zaznacz jeúli broÒ nie ma znikaÊ po podniesieniu
+263: W≥πcz lub wy≥πcz pojawianie siÍ wzmocnieÒ na mapie
+264: Zaznacz jeúli wzmocnienia majπ zostawaÊ po sfragowaniu w≥aúciciela
+265: Zaznacz by zezwoliÊ na bunnyhopping
+266: Zaznacz by zezwoliÊ na úwiecπce postacie
+267: Zaznacz by zezwoliÊ na skoki rakietowe do przodu
+268: Wybierz kolor poúwiaty druøyny
+269: Wybierz kolor poúwiaty wrogÛw
+270: Ustawienia ogÛlne
+271: Ustawienia zaawansowane
+272: Za≥Ûø serwer
+
+# list manipulation
+273: Ruch w gÛrÍ
+274: Ruch w dÛ≥
+275: Dodaj wybrane obiekty
+276: Dodaj wszystkie obiekty
+277: UsuÒ wybrany obiekt
+278: UsuÒ wszystkie obiekty
+
+# player settings menu
+279: Wpisz swojπ ksywkÍ
+280: Wybierz druøynÍ do gier druøynowych
+281: Wybierz prÍdkoúÊ twojego po≥πczenia z sieciπ
+282: Wpisz swÛj klucz CD
+
+# map
+
+# levels
+283: Cmentarz
+284: Kompleks Atrium
+285: Katakumby
+286: Katedra
+287: Enklawa
+288: WiÍzienie
+289: Budynek opery
+290: Wariatkowo
+291: Oúnieøony most
+292: Miasto
+293: Bagna
+294: Peron
+295: Opuszczona fabryka
+296: Baza wojskowa
+297: Ruiny
+298: Zamek
+299: Pa≥ac
+300: Babel
+301: Las
+302: Wieøa
+303: P≥ywajπce miasto
+304: Doki
+305: Stary klasztor
+306: Piek≥o
+
+# stats
+307: Znalezione karty
+308: Znalezione z≥oto
+
+# single-player stats
+
+309: TW”J WYNIK
+310: Czas gry
+311: Zabite potwory
+312: Zebrane dusze
+313: Znalezione z≥oto
+314: Znalezione úwiÍte przedmioty
+315: Znaleziona amunicja
+316: Zniszczone obiekty
+317: Znalezione sekrety
+318: Status odblokowania karty
+319: Status
+320: Zablokowana
+321: Odblokowana
+
+# multi-player messages
+
+322: $PLAYER do≥πczy≥ do areny.
+323: $PLAYER stchÛrzy≥ i wyszed≥ z areny.
+324: $KILLER rozwali≥ $PLAYER obrzynem.
+325: $KILLER zakoÒczy≥ marny øywot $PLAYER.
+326: $KILLER zniszczy≥ $PLAYER.
+327: $PLAYER uúciska≥ granat $KILLER.
+328: $PLAYER przelecia≥ siÍ na rakiecie $KILLER.
+329: $PLAYER po≥knπ≥ rakietÍ $KILLER.
+330: $KILLER ukrzyøowa≥ $PLAYER.
+331: $KILLER poszatkowa≥ $PLAYER.
+332: $KILLER wys≥a≥ w kosmos $PLAYER.
+333: $PLAYER Walczy≥ z grawitacjπ i przegra≥.
+334: $PLAYER opuúci≥ budynek.
+335: $PLAYER zapomnia≥, w ktÛrπ stronÍ jest lufa.
+336: $PLAYER udowodni≥, øe øycie jest krÛtkie.
+337: $PLAYER eksplodowa≥.
+
+# cards
+338: SzybkoúÊ
+339: ZrÍcznoúÊ
+340: Furia
+341: Wúciek≥oúÊ
+342: Zamieszanie
+343: Wytrzyma≥oúÊ
+344: Twardy jak øelazo
+345: Przyspieszenie
+346: PodwÛjne przyspieszenie
+347: PotrÛjne przyspieszenie
+348: Bonus czasowy
+349: PodwÛjny bonus czasowy
+350: £apacz dusz
+351: Straønik dusz
+352: Wybawiciel dusz
+353: Mroczna dusza
+354: B≥ogos≥awieÒstwo
+355: WitalnoúÊ
+356: Uzupe≥nienie
+357: ChciwoúÊ
+358: Przebaczenie
+359: £aska
+360: Boska interwencja
+361: Ostatnie tchnienie
+
+# cards descriptions
+362: Poruszasz siÍ szybciej
+363: Bronie prze≥adowujπ siÍ 2x szybciej
+364: Zadajesz 2x wiÍcej obraøeÒ
+365: Zadajesz 4x wiÍcej obraøeÒ
+366: Wrogowie sπ zagubieni
+367: Otrzymujesz tylko po≥owÍ\nobraøeÒ
+368: Wrogowie nie mogπ ciÍ zraniÊ
+369: åwiat rusza siÍ 2x wolniej
+370: åwiat rusza siÍ 4x wolniej
+371: åwiat rusza siÍ 8x wolniej
+372: Dzia≥anie Z≥otych Kart trwa\n10 sekund d≥uøej
+373: Dzia≥anie Z≥otych Kart trwa\n20 sekund d≥uøej
+374: Wsysa dusze na odleg≥oúÊ
+375: Dusze znikajπ po d≥uøszym czasie
+376: Dusze leczπ wiÍcej obraøeÒ
+377: Zmieniasz siÍ w demona\npo zebraniu 50 dusz
+378: ZwiÍksza poziom\nzdrowia do 150
+379: ZwiÍksza pojemnoúÊ\nzdrowia do 150
+380: Podwaja amunicjÍ\nw pude≥kach z amunicjπ
+381: Podwaja ukryte\nbogactwa
+382: Moøesz uøywaÊ Z≥otych Kart\ndwa razy na kaødym poziomie
+383: Moøesz uøywaÊ Z≥otych Kart\ntrzy razy na kaødym poziomie
+384: Wszystkie karty mogπ byÊ\numieszczone za darmo
+385: Regeneruje zdrowie kiedy\numierasz
+
+# multi-player stats
+
+386: Gracz
+387: Fragi
+388: Zabicia
+389: Zgony
+390: Ping
+391: Czas
+392: Str. pak.
+393: Pozosta≥y czas
+
+# messages
+394: Wciúnij 'Enter' by kontynuowaÊ.
+395: Wciúnij 'Strza≥' by kontynuowaÊ.
+
+# black board card unlocking conditions
+396: UkoÒcz poziom
+397: Zniszcz wszystkie przedmioty
+398: Zabij wszystkie potwory
+399: Znajdü przynajmniej 500 z≥ota
+400: Zabij Nekrogiganta w mniej niø 02:00
+401: UkoÒcz poziom uøywajπc tylko broni bez materia≥Ûw wybuchowych
+402: Zbierz przynajmniej 100 dusz
+403: UkoÒcz poziom korzystajπc tylko z broni Painkiller
+404: Znajdü kaøde tajne miejsce
+405: UkoÒcz poziom uøywajπc tylko ko≥kownicy
+406: Zabij Stwora z bagien w mniej niø 04:00
+407: Nie zbierz ani jednej duszy
+408: Zabij przynajmniej 30 wrogÛw w trybie zmiany w demona
+409: Zabij wszystkie potwory
+410: Zabij Thora w mniej niø 01:20
+411: Znajdü kaødy åwiÍty przedmiot
+412: UkoÒcz poziom bez zbroi
+413: Znajdü ca≥π amunicjÍ
+414: UkoÒcz poziom bez uøywania Czarnego Tarota
+415: Zabij Alastora w mniej niø 05:00
+416: Znajdü kaøde tajne miejsce
+417: ZmieÒ siÍ w demona przynajmniej 3 razy
+418: Utrzymuj zdrowie powyøej 50
+419: Zabij Lucyfera
+
+# main menu
+420: WznÛw grÍ
+421: WrÛÊ do mapy
+
+# difficulty level
+422: Tryb zamkniÍty: UkoÒcz Koszmar, by otworzyÊ ten tryb
+
+# map
+423: Rozdzia≥
+424: Poziom
+425: Czarny Tarot nie jest dostÍpny w wersji demo
+426: Czarny Tarot nieaktywny
+427: Wybierz poziom
+428: Wybierz rozdzia≥
+429: Przejdü do Czarnego Tarota
+430: Przejdü do g≥Ûwnego menu
+431: Rozegraj poziom
+432: Czarny Tarot nieosiπgalny w trakcie rozgrywki
+433: Czarny Tarot nieosiπgalny na tym poziomie trudnoúci
+
+# board
+434: Koszt
+435: Zwrot z≥ota
+436: Z≥oto po zwrocie
+437: Uøyj klawisza "Uøyj Z≥otych Kart" podczas gry\nby wykorzystaÊ moc swoich Z≥otych Kart.\nMoøesz uøyÊ zestawu [x] raz(y) na poziom.
+438: Dzia≥anie umieszczonych tu Srebrnych Kart jest\nnatychmiastowe - dzia≥ajπ one przez ca≥y\npoziom gry.
+439: Za ma≥o z≥ota by umieúciÊ\nkartÍ.
+440: Twoje z≥oto
+441: Wymagane z≥oto
+
+# sound options
+442: Akustyka EAX
+443: Zanacz by w≥πczyÊ efekty specjalne EAX
+444: Muz. bitewna
+445: Muz. ambient
+446: Ustaw g≥oúnoúÊ muzyki bitewnej
+447: Ustaw g≥oúnoúÊ muzyki ambientowej
+
+# video options
+448: Efekty
+
+# controls
+449: Uøyj Z≥otych Kart
+450: Latarka
+
+# game over
+451: Wciúnij 'Strza≥' by zaczπÊ od nowa lub 'Escape' by wyjúÊ do menu.
+
+# scoreboard
+452: Znalezione zbroje
+453: ZABLOKOWANA!
+454: N/A
+455: Nowa karta
+456: Czarnego Tarota
+457: odblokowana!
+
+# weapons
+458: Pain
+459: Killer
+460: Strzelba
+461: Zamraøacz
+462: Ko≥kownica
+463: Granatnik
+464: Rakietnica
+465: Minigun
+466: Shurikeny
+467: Elektro
+
+# warnings
+468: Sen Na Jawie to wyjπtkowo ≥atwy tryb dla poczπtkujπcych. Nie masz w nim dostÍpu do kart Czarnego Tarota.\nNa pewno chcesz wybraÊ ten tryb?
+469: Na pewno?
+470: Nie pokazuj wiÍcej tego ostrzeøenia
+
+471: JAKOå∆ TEKSTUR
+
+472: Wyjdü do mapy
+
+473: Sekretne miejsce odkryte!
+
+474: Poz. trudn.
+
+# create server
+475: DostÍpne mapy
+476: Mapy na serwerze
+
+# keys
+477: Nieznany
+478: GÛra
+479: DÛ≥
+480: Lewo
+481: Prawo
+482: Spacja
+483: Tab
+484: Backspace
+485: Enter
+486: Pause
+487: Shift
+488: Control
+489: Escape
+490: Page Up
+491: Page Down
+492: End
+493: Home
+494: Insert
+495: Delete
+496: Numpad 0
+497: Numpad 1
+498: Numpad 2
+499: Numpad 3
+500: Numpad 4
+501: Numpad 5
+502: Numpad 6
+503: Numpad 7
+504: Numpad 8
+505: Numpad 9
+506: Numpad *
+507: Numpad +
+508: Numpad -
+509: Numpad .
+510: Numpad /
+511: NumLock
+512: ScrollLock
+513: Lewy Shift
+514: Prawy Shift
+515: Lewy Alt
+516: Prawy Alt
+517: Lewy Menu
+518: Prawy Menu
+519: Dal.pr. Menu
+520: Printscreen
+521: Caps Lock
+522: Numpad Enter
+523: Lewy przycisk myszy
+524: Prawy przycisk myszy
+525: årod. przycisk myszy
+526: Roller do gÛry
+527: Roller na dÛ≥
+528: Lewy Ctrl
+529: Prawy Ctrl
+
+# video options
+530: Min.
+531: Max
+
+# weapons config
+532: Priorytet
+533: W≥asne 1
+534: W≥asne 2
+535: Wybierz najl.w≥.1
+536: Wybierz najl.w≥.2
+537: Strza≥ najl.w≥.1
+538: Strza≥ najl.w≥.2
+
+# keys
+539: Szybkie za≥.
+540: Szybkie nagr.
+
+# messages keys
+541: Komunikaty
+542: Konfiguracja komunikatÛw
+543: Kl.
+544: SA
+545: Komunikat
+
+# messages
+546: Message 01
+547: Message 02
+548: Message 03
+549: Message 04
+550: Message 05
+551: Message 06
+552: Message 07
+553: Message 08
+554: Message 09
+555: Message 10
+556: Message 11
+557: Message 12
+558: Message 13
+559: Message 14
+560: Message 15
+561: Message 16
+562: Message 17
+563: Message 18
+
+# video options
+564: Ustawienia grafiki
+565: Ustawienia ogÛlne
+566: W≥asne
+567: Najszybsze
+568: Szybkie
+569: Standard
+570: Wysokie
+571: Szalone
+
+572: Zaznacz komunikaty dla wszystkich graczy
+573: Wszyscy gracze widzπ ten komunikat
+574: Tylko twÛj team widzi ten komunikat
+
+575: ZasiÍg
+576: Ustaw zasiÍg
+577: Tajny model multiplayerowy odkryty
+578: Moøesz uøywaÊ Z≥otych Kart za darmo i wiele razy
+
+# multiplayer error messages - NIE TLUMACZYC
+579: Disconnected on timeout: %d ms
+580: GameSpy timeout error!!!\nDescription: %s
+581: NAT Negotiation: NN server acknowledged your connection request
+582: NAT Negotiation: direct negotiation with the other client has started
+583: NAT Negotiation: unknown negotiate state returned by GameSpy!! State: %d
+584: NAT Negotiation complete! Connecting to %s
+585: NAT Negotiation error: Partner did not register with the NAT Negotiation Server
+586: NAT Negotiation error: Unable to communicate with NAT Negotiation Server
+587: NAT Negotiation error: NAT Negotiation server indicated an unknown error condition
+588: NAT Negotiation succesfull!: Client connecting from %s
+589: NAT Negotiation: Received client cookie: %d
+590: Net Init Error: WSAStartup() failed!! Returned %d
+591: Net Init Error: Windows Sockets implementation too old!
+592: Net Init Error: tried to resolve given interface and failed!
+593: Net Init Error: gethostname() call failed!! Can't find this computer's name! Returned: %d
+594: Net Init Error: failed to resolve our IP with gethostbyname()!!
+595: Net Init Error: Couldn't open listening socket: %s
+596: Net Init Error: Couldn't make socket non-blocking: %s
+597: Net Init Error: Failed to bind socket on port %d
+598: Net Init Error: getsockname on bound socket failed!! Returned: %d
+599: GameSpy Init Error: a DNS lookup (for the master server) failed\nGameSpy inactive!
+600: GameSpy Init Error: no challenge was received from the master - either the master is down, or a firewall is blocking UDP\nGameSpy inactive!
+601: GameSpy Init Error: unknown error value given by GameSpy: %d\nGameSpy inactive!
+602: Net Error: Connection refused by server (port unreachable)
+603: Net Error: Given address does not reply
+604: Net Error: Connection closed from other side (probably other side is down right now)
+605: Net Info: Rejected connect from '%s': using early development client version!
+606: Net Info: Rejected connect from '%s': different client version: %s
+607: Net Info: Rejected connect from '%s': different client scripts
+608: Net Info: Rejected connect from '%s': it tried to answer a challenge I didn't issue
+609: Net Info: Rejected connect from '%s': too many clients trying to connect
+610: Net Info: Rejected connect from '%s': bad password given
+611: Net Info: Rejected connect from '%s': maximal number of clients achieved
+612: Net Info: Rejected connect from '%s': invalid challenge given
+613: Net Info: Rejected connect from '%s': invalid challenge response given
+614: Net Info: Rejected connect from '%s': GameSpy says it has a bad CD key
+615: Net Info: Rejected net open from '%s': it tried to do it without a prior connect
+616: Net Error: trying to connect to host that is not a Painkiller server!!
+617: Net Error: the server is version '%s', we are '%s'.\nCan't connect!! Please upgrade the game.
+618: Net Error: we have different scripts than the server, but the same game version.\nPlease upgrade or reinstall the game.
+619: Net Error: we gave bad password to passworded server!!
+620: Net Error: failed challenge authentication!! A hack job, perhaps?
+621: Network: server challenge timeout...reconnecting
+622: Net Error: No more players allowed on this server
+623: Net Error: the CD Key you entered is incorrect, or there's another player with the same CD Key presently on the Net!\nServer said: %s
+624: Net Error: the client tried to answer a challenge that the server didn't provide!\nServer said: %s
+625: Net Error: the client tried to issue a Net Open command without connecting first!\nServer said: %s
+626: Net Error: unknown error report received!!
+627: Net Error: Write: error in sendto(): %s
+628: Net Error: Read: error in recvfrom(): %s
+629: Net Error: Couldn't resolve address: %s
+
+# maps stats
+630: NAJLEPSZE WYNIKI
+
+631: Ko≥ysanie
+632: Ustaw ko≥ysanie
+633: DüwiÍki ambientowe
+634: W≥πcz/wy≥πcz düwiÍki ambientowe
+
+635: Poziom nieosiπgalny\nw tym trybie\ntrudnoúci
+636: Chcesz skasowaÊ wszystkie swoje karty i rekordy?
+
+637: Data i czas
+638: [NOWY]
+639: Nagraj
+640: Wgraj
+641: Gra zapisana
+642: Gra za≥adowana
+643: [Quick]
+644: [Auto]
+645: Na pewno chcesz skasowaÊ tÍ zapisanπ grÍ?
+646: Na pewno chcesz nadpisaÊ tÍ zapisanπ grÍ?
+
+647: PUNKT KONTROLNY
+648: ZapisujÍ progres
+
+# cheats
+649: Cheaty sπ aktywne tylko w trybach Sen Na Jawie i BezsennoúÊ.
+650: Pe≥ne ammo dodane.
+651: Wszystkie bronie dodane.
+652: Pe≥ne zdrowie dodane.
+653: Pe≥ne ammo i zdrowie dodane.
+654: Jesteú bogiem, wyobraü to sobie...
+655: Juø nie jesteú bogiem.
+656: ZgiÍte gibowanie w≥πczone.
+657: ZgiÍte gibowanie wy≥πczone.
+658: Cia≥a nie bÍdπ niknπÊ.
+659: Cia≥a bÍdπ niknπÊ normalnie.
+660: Dekale nie bÍdπ niknπÊ.
+661: Dekale bÍdπ niknπÊ normalnie.
+662: Wszyscy wrogowie majπ 1 HP.
+663: Wszyscy wrogowie majπ normalne HP.
+664: Z≥oty prysznic.
+665: Przyspieszenie w≥πczone.
+666: Przyspieszenie wy≥πczone.
+667: Demon Morph w≥πczony.
+668: Demon Morph wy≥πczony.
+669: Weapon Modifier w≥πczony.
+670: Weapon Modifier wy≥πczony.
+671: NieskoÒczone uøycie Z≥otych Kart w≥πczone.
+672: Akces do wszystkich poziomÛw w≥πczony.
+673: Wszystkie karty Tarota dodane.
+
+# connection speed
+674: Modem
+675: ISDN
+676: Cable/ADSL
+677: LAN/T1
+
+678: Zapisy
+679: AutoZapisy
+680: [Chckpt]
+
+681: Naciúnij Strza≥ by za≥adowaÊ ostatni punkt ktr.
+682: Naciúnij Alt.Strza≥ by za≥adowaÊ ostatni Szybki Zapis
+683: Naciúnij ESC by wyjúÊ do menu
+684: W Traumie zapis jest tylko na punktach kontrolnych
+685: Twoje zdrowie zosta≥o zregenerowane.
+
+686: Zostanie rozpoczÍta nowa gra: wszystkie poziomy bÍdπ zamkniÍte. Czy na pewno chcesz przerwaÊ obecnπ grÍ i rozpoczπÊ nowπ?
+687: Na pewno chcesz opuúciÊ obecny poziom gry?
+
+688: Czas gry
+
+#last minute crap
+689: Odkryj 23 karty Czarnego Tarota by uaktywniÊ ten poziom
+
+#last minute MP crap
+
+690: Model gracza
+691: Wybierz swojπ postaÊ
+692: Demon
+693: Upad≥y Anio≥
+694: Rycerz
+695: Bestia
+696: Painkiller
+
+697: PodwÛjny frag!
+698: PotrÛjny frag!
+699: Pentafrag!
+700: RZEèNIA!..
+
+701: Dodatkowy czas poúcigu!
+702: $PLAYER jest nowym Niosπcym åwiat≥o.
+703: $PLAYER utraci≥ åwiat≥o.
+704: åwiat≥o wrÛci≥o no swoje miejsce.
+
+705: LISTA P£AC
+706: Pokaø listÍ osÛb, ktÛre pracowa≥y przy produkcji gry
+
+707: Bia≥y
+708: Czerwony
+
+709: PAUZA
+
+710: Wciúnij 'Strza≥' aby zaczπÊ
+711: WYNIKI KO—COWE
+
+# electro
+712: $KILLER zakoÒczy≥ marny øywot $PLAYER.
+# shuriken
+713: $KILLER zakoÒczy≥ marny øywot $PLAYER.
+
+714: Gotowy
+715: Break
+
+716: 'Strza≥' - ready/unready
+717: 'Alt. Strza≥' - zmiana druøyny
+
+# lava
+718: $PLAYER udowodni≥, øe øycie jest krÛtkie.
+
+# Patch 1
+719: Spektator
+720: Do≥πcz do gry jako widz
+721: Roz≥πcz.
+722: Przerwij po≥πczenie z serwerem
+723: SPEKTATOR
+724: 'Strza≥' - zmiana gracza
+725: 'Alt. strza≥' - duch
+726: 'Skok' - do≥πcz do gry
+727: Widzowie
+728: Sp.
+729: minuta(y)
+730: Mecz zacznie siÍ za %d sek.
+731: Czekam na innych graczy.
+732: 'Nast./poprz. broÒ' - zmiana widoku
+733: Predykcja (beta)
+734: UWAGA: ta opcja w≥πcza testowy kod predykcji
+735: UWAGA: Musisz zrestartowaÊ grÍ, by auktywowaÊ zmianÍ. WiÍcej informacji nt. kodu predykcji znajduje siÍ w pliku README do patcha 1.15.
+
+736: BroÒ 6
+737: BroÒ 7
+738: BroÒ 8
+739: BroÒ 9
+740: BroÒ 10
+
+741: Respawn broni
+742: Ustaw czas pojawiania siÍ broni
+743: Server FPS
+744: Ustaw FPS serwera
+
+745: ProszÍ w≥oøyÊ p≥ytÍ Painkiller CD1
+
+746: Predykcja
+747: Likwiduje lag w grze po Internecie, niezalecane dla gry po LAN
+
+748: Musisz ponownie po≥πczyÊ siÍ z serwerem!!!
+
+749: Framerate Lock
+750: Framerate Lock description
+751: Off
+752: Server FPS
+753: 2x Server FPS
+754: 3x Server FPS
+
+755: FPS fizyki
+756: Ustaw FPS fizyki gry
+
+757: Niska jakoúÊ FX Multiplayer
+758: Ustaw specjalnπ niskπ jakoúÊ efektÛw graficznych w MP
